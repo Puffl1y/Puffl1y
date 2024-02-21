@@ -1,5 +1,5 @@
 ## 🤍 Hello! Wellcome to my GitHub! 🤍
-<img src = "giphy cina.gif" width = "250px" align = "right">
+<img src = "giphy cina.gif" width = "250px" align = "right" >
 
 
 ### Hello, i'am Mariana, i love cute things, and i always try to put a bit of that into my personal projects. 💕
@@ -8,7 +8,7 @@ The first programming language I had contact with was javascript in 2020, from t
 ### studies: 
 - 🗺 From: Brasilia/Brazil
 - 👩‍🎓 Software Engineering student
-- 📚 Currently studying: javascript
+- 📚 Currently studying: swift
 
 
 ## 💻STATS
