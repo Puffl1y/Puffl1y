@@ -8,7 +8,7 @@ The first programming language I had contact with was javascript in 2020, from t
 ### studies: 
 - 🗺 From: Brasilia/Brazil
 - 👩‍🎓 Software Engineering student
-- 📚 Currently studying: swift
+- 📚 Currently studying: DBMS
 
 
 ## 💻STATS
