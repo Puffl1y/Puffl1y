@@ -1,15 +1,21 @@
-## 🤍 Hello! Wellcome to my GitHub! 🤍
+# 🤍 Hello! Wellcome to my GitHub! 🤍
 <img src = "giphy cina.gif" width = "250px" align = "right" >
 
 
-### Hello, i'am Mariana, i love cute things, and i always try to put a bit of that into my personal projects. 💕
-The first programming language I had contact with was javascript in 2020, from that first contact I started to get interested in programming, but I only started to really study at the end of 2023. I'm currently looking to delve deeper into Front-End, but I'm always up for new challenges! 
+### Hi there! I'm Mariana Alves, a passionate student of Software Engineering at the University of Brasília and Systems Analysis and Development at the Catholic University of Brasília. Currently in my third semester of Software Engineering, I’m building a strong foundation in programming, cloud computing, and cybersecurity.
 ##
-### studies: 
-- 🗺 From: Brasilia/Brazil
-- 👩‍🎓 Software Engineering student
-- 📚 Currently studying: DBMS
+### Tech Stack & Skills:
+-Programming: Python, JavaScript, C \
+-Web Development: HTML, CSS \
+-Cloud Computing: AWS (Cloud Bootcamp completed) \
+-Interests: Cybersecurity, Cloud Security, Ethical Hacking
 
+##
+### Currently learning: 
+Advanced programming concepts, cloud security practices, and cybersecurity fundamentals.
+
+### Fun fact: 
+I believe that technology is not just about code, but also about creativity, curiosity, and the will to make a difference.
 
 ## 💻STATS
 
