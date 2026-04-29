@@ -17,12 +17,7 @@ Advanced programming concepts, cloud security practices, and cybersecurity funda
 ### Fun fact: 
 I believe that technology is not just about code, but also about creativity, curiosity, and the will to make a difference.
 
-## 💻STATS
 
-![GitHubstats](https://github-readme-stats.vercel.app/api?username=Puffl1y&show_icons=true&theme=light-blue)
-![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=Puffl1y&theme=light-blue)
-
-##
 
 <div align= "center">
   <a href="mailto:puffliy.m@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" ></a>
