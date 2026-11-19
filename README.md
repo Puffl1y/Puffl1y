@@ -13,6 +13,10 @@
 ### Currently learning: 
 Advanced programming concepts, cloud security practices, and cybersecurity fundamentals.
 
+### Currently Working On
+- Building automated workflows and software engineering projects.
+- Co-leading **Gladies**, a female-led Junior Enterprise at UnB focused on technical mentorship and software solutions.
+
 ### Fun fact: 
 I believe that technology is not just about code, it's about creativity, curiosity, and the drive to make a difference.
 
